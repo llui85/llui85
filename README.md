@@ -5,6 +5,6 @@
 |---|---|---|
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=llui85&show_icons=true&count_private=true&hide_rank=true&show_owner=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=llui85&show_icons=true&count_private=true&hide_rank=true&show_owner=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llui85&compact=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llui85&compact=true">
