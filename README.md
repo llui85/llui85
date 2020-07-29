@@ -1,4 +1,4 @@
-<img src="https://github.com/llui85/llui85/blob/master/llui85.svg?raw=true" alt="llui85" width="95%">
+<img src="https://github.com/llui85/llui85/blob/master/llui85.svg?raw=true" alt="llui85" width="99%">
 
 
 |[My Website](https://llui85.cf/)|[Links-Portal](https://llui85.cf/Links-Portal/login.html)|[Infinity](https://llui85.cf/infinity/)|
