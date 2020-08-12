@@ -6,7 +6,7 @@
 |---|---|---|
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=llui85&show_icons=true&count_private=true&hide_rank=true&show_owner=true">
+<img src="https://github-readme-stats.vercel.app/api?username=llui85&show_icons=true&count_private=true&hide_rank=true&show_owner=true&include_all_commits=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llui85&compact=true">
 
